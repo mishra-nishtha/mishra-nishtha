@@ -6,8 +6,8 @@
 
 ---
 
-🎓 **Third-year B.Tech CSE student @ KIIT University** (2023 – 2027)  
-🤖 **AI/ML & Backend Engineer** | Hackathon Winner | Ex-AI Intern @ Infosys & Aether AI  
+🎓 **Finalyear B.Tech CSE student @ KIIT University** (2023 – 2027)  
+🤖 **AI/ML & Backend Engineer** | Hackathon Winner | Ex-AI Intern @ Mondee, Infosys & Aether AI  
 💡 **Passionate about:** Distributed Systems, Agentic AI, Deep Learning, and Computer Vision
 
 ---
